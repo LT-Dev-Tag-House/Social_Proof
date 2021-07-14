@@ -85,8 +85,8 @@ Frontend Mentor always has good challenge designs to build, this was also anothe
 
 ### Useful resources
 
-- CSS GRID by [https://cssgrid.io/](WES BOS)
-- CSS GRID by [https://tomduffytech.com/](Tom Duffy)
+- CSS GRID by WES BOS[https://cssgrid.io/](https://cssgrid.io/)
+- CSS GRID by Tom Duffy[https://tomduffytech.com/](https://tomduffytech.com/)
 
 ## Author
 
