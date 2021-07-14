@@ -40,8 +40,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-using-grid-and-flexbox-AslahwljD](https://www.frontendmentor.io/solutions/social-proof-section-using-grid-and-flexbox-AslahwljD)
+- Live Site URL: [https://lt-dev-tag-house.github.io/Social_Proof/](https://lt-dev-tag-house.github.io/Social_Proof/)
 
 ## My process
 
@@ -85,8 +85,8 @@ Frontend Mentor always has good challenge designs to build, this was also anothe
 
 ### Useful resources
 
-- CSS GRID by WES BOS[https://cssgrid.io/](https://cssgrid.io/)
-- CSS GRID by Tom Duffy[https://tomduffytech.com/](https://tomduffytech.com/)
+- CSS GRID by WES BOS [https://cssgrid.io/](https://cssgrid.io/)
+- CSS GRID by Tom Duffy [https://tomduffytech.com/](https://tomduffytech.com/)
 
 ## Author
 
